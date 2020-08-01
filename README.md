@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Siarhei Bautrukevich.
 
-Passionate about programming, web and open source.
+Passionate about **programming**, **web** and **open source**.
 
-🧔 Switched from Full-stack developer (PHP & *SQL) to Senior Front-end engineer, with an understanding of fundamentals, fresh standards and instruments.
+🧔 Switched from Full-stack developer (PHP & SQL) to **Senior Front-end engineer**, with an understanding of fundamentals, fresh standards and instruments.
 
-🧙 Mentor for junior developers or for who make the first steps in web.
+🧙 **Mentor** for junior developers or for who make the first steps in web.
 
 By any questions feel free to contact me with [Telegram](https://t.me/bautrukevich).
 

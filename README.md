@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **bautrukevich/bautrukevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi 👋, I'm Siarhei Bautrukevich.
+
+Passionate about programming, web and open source.
+
+🧔 Switched from Full-stack developer (PHP & *SQL) to Senior Front-end engineer, with an understanding of fundamentals, fresh standards and instruments.
+
+🧙 Mentor for junior developers or for who make the first steps in web.
+
+By any questions feel free to contact me with [Telegram](https://t.me/bautrukevich).
+
+My [Twitter](https://twitter.com/s_bautrukevich) and [Patreon](https://www.patreon.com/bautrukevich).

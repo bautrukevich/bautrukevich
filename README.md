@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 
 # Hi 👋, I'm Siarhei Bautrukevich.
 
-Passionate about **programming**, **web** and **open source**.
+Passionate about **mentorship**, **programming**, **web**, and **open source**. 
 
-🧔 **Senior Front-end engineer**, with an understanding of fundamentals, fresh standards and instruments.
+🧔 Former **Designer**, **Full-stack developer**. **Front-end engineer**, with an understanding of fundamentals, fresh standards, and instruments. Now **Mentor** at Practicum by Yandex. 
 
-🧙 **Mentor** for junior developers or for who make the first steps in web.
+🧙 **Mentor** for junior developers or for those who make the first steps on the web. Creator of ["My dear, junior frontend developer"](https://t.me/j_f_mentorship) community. 
 
-By any questions feel free to contact me with [Telegram](https://t.me/bautrukevich).
+By any questions feel free to contact me on [Telegram](https://t.me/bautrukevich).
 
 My [Twitter](https://twitter.com/s_bautrukevich) and [Patreon](https://www.patreon.com/bautrukevich).

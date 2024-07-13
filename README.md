@@ -19,7 +19,7 @@ Passionate about **mentorship**, **programming**, **web**, and **open source**.
 
 🧔 Former **Designer**, **Full-stack developer**. **Front-end engineer**, with an understanding of fundamentals, fresh standards, and instruments. Now **Mentor** at Practicum by Yandex. 
 
-🧙 **Mentor** for junior developers or for those who make the first steps on the web. Creator of ["My dear frontend developer. Practice!"](https://t.me/j_f_mentorship) community. 
+🧙 **Mentor** for junior developers or for those who make the first steps on the web. Writing in the Telegram channel ["Seryozha steps over the edge"](https://t.me/j_f_mentorship). 
 
 By any questions feel free to contact me on [Telegram](https://t.me/bautrukevich).
 
